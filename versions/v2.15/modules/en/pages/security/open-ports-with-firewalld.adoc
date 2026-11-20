@@ -61,7 +61,7 @@ This section describes how to use `firewalld` to apply the {xref-install-reqs}#_
 [#_prerequisite]
 == Prerequisite
 
-Install v7.x or later ofv``firewalld``:
+Install v7.x or later of``firewalld``:
 
 [,shell]
 ----
